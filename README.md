@@ -1,7 +1,7 @@
 # Cancer Detection App 📸💻
 
 ## Project Overview
-Welcome to my most exciting computer science project! 🚀 I've developed a Cancer Detection App using React Native for the frontend and TensorFlow, NumPy, and Python for the backend. The app empowers users to check if a naevus (mole) is benign or malignant.
+Welcome to my most exciting project! 🚀 I've developed a Cancer Detection App using React Native for the frontend and TensorFlow, NumPy, and Python for the backend. The app empowers users to check if a naevus (mole) is benign or malignant.
 
 ## Features
 - 📷 **Camera Integration:** Capture photos directly from your phone's camera.
